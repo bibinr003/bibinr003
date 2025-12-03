@@ -15,7 +15,7 @@ I’m continuously expanding my skill set, with a current focus on:
 
 Congenital heart disease research
 
-Pipeline development & optimization
+Whole / Targeted Familial Exome Pipeline development & optimization
 
 Scalable and reproducible bioinformatics workflows
 
