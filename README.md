@@ -28,9 +28,6 @@ Scalable and reproducible bioinformatics workflows
 
 ## GitHub Stats
 
-![Bibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibinr003\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibinr003\&layout=compact\&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibinr003\&theme=tokyonight)
 
