@@ -1,6 +1,6 @@
 ## Hi, I’m Bibin 👋
 
-I’m a Bioinformatician with a strong background in Genomics, passionate about turning complex biological data into meaningful insights.
+I’m a Bioinformatician (Kerala, India) with a strong background in Genomics, passionate about turning complex biological data into meaningful insights.
 
 ## Expertise
 
