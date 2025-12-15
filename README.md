@@ -1,4 +1,4 @@
-## Hi, I’m Bibin 👋
+## Hi, I’m Bibin R     👋
 
 I’m a Bioinformatician (Kerala, India) with a strong background in Genomics, passionate about turning complex biological data into meaningful insights.
 
