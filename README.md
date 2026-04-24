@@ -33,7 +33,7 @@ Scalable and reproducible bioinformatics workflows
 
 
 ## Let’s Connect 🤝 
-Portfolio: [https://sites.google.com/view/bibin-r]
+Portfolio: [https://sites.google.com/view/bibin-r/]
 Email: [bibinr003@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/bibinnewman/]
 
